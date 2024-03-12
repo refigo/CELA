@@ -1,5 +1,6 @@
 - Contract:
   - Goal: Cleaning tabs of browsers(chrome and brave)
   - Deliverables: Screenshot of cleaned browsers with datetime
+    - [deliverable](./스크린샷%202024-03-12%20오후%206.58.16.png)
   - Deadline: 2024-03-12 (Tue) 19:00
   - Loss: $10 to seongtki
