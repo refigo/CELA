@@ -1,6 +1,6 @@
 - Contract
   - Goal: Write Overview of My Primary Development Experience
   - Deliverables: markdown file or screenshot
-    - [deliverable - Overview of My Primary Development Experience.md](./deliverable%20-%20Overview%20of%20My%20Primary%20Development%20Experience.md)
+    - [deliverable - Overview of My Primary Development Experience.md](./attachments/deliverable%20-%20Overview%20of%20My%20Primary%20Development%20Experience.md)
   - Deadline: 2024-03-12 13:00
   - Loss: $15
