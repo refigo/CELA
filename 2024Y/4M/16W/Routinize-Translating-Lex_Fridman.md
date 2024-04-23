@@ -4,6 +4,8 @@
   - Penalty: 하루 안 하면 벌금 10,000원
 - Certify
   - 2024-04-21
-    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/) (Introduction)
+    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/) (Add Introduction)
   - 2024-04-22
-    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/) (Early robots 1, 2)
+    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/#early-robots) (Add Early robots 1, 2)
+  - 2024-04-23
+    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/#early-robots) (Update Early robots 2)
