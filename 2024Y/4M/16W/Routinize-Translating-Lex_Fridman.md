@@ -11,3 +11,6 @@
     - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/#early-robots) (Update Early robots 2)
   - 2024-04-24
     - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/#early-robots) (Add Early robots 3)
+  - 2024-04-25
+    - [번역 - Marc Raibert | Boston Dynamics and the Future of Robotics (Lex Fridman Podcast)](https://refigo.github.io/posts/lex-fridman-podcast-marc-raibert-1/#early-robots) (Add Early robots 4,5)
+   
