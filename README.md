@@ -1,2 +1,2 @@
-# CILA
-Crisis-driven Implementation using Loss Avoidance tendency
+# CELA
+Crisis-driven Execution using Loss Avoidance
