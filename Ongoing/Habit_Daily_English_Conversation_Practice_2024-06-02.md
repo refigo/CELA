@@ -16,7 +16,7 @@
 ## 2024-05-15
 - **Verified**: YES
 - **Notes**: Input: A day in my life (Lex Fridman) - Visualize the day | Output: QnA
-- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/ECV/202405152342-ESA.md)
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/ECV/202405152342-ECV.md)
 
 ## 2024-05-16
 - **Verified**: YES
