@@ -28,6 +28,11 @@
 - **Notes**: Input: A day in my life (Lex Fridman) - Visualize the day | Output: QnA
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/ECV/202405171603-ECV.md)
 
+## 2024-05-18
+- **Verified**: YES
+- **Notes**: Input: A day in my life (Lex Fridman) - Visualize the day | Output: QnA
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/ECV/202405181241-ECV.md)
+
 
 # Loss verification when failure
 
