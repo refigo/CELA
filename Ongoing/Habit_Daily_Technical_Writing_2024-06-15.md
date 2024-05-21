@@ -9,6 +9,11 @@
 
 # Verification
 
+## 2024-05-21
+- **Verified**: YES
+- **Notes**: 임베디드와 로보틱스 소프트웨어 개발의 차이
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/difference_embedded_robotics_software_development.md)
+
 
 # Loss verification when failure
 
