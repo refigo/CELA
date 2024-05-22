@@ -14,6 +14,11 @@
 - **Notes**: 임베디드와 로보틱스 소프트웨어 개발의 차이
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/difference_embedded_robotics_software_development.md)
 
+## 2024-05-22
+- **Verified**: YES
+- **Notes**: ChatGPT, Copliot 등의 인공지능이 나타난 이후.. 코딩테스트, 알고리즘의 코드를 개발자가 직접 작성할 줄 알아야 할까?
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/commit/211713d0ee58181999b7f01db19ad37ff722e09e)
+
 
 # Loss verification when failure
 
