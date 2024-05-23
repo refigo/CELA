@@ -19,6 +19,11 @@
 - **Notes**: ChatGPT, Copliot 등의 인공지능이 나타난 이후.. 코딩테스트, 알고리즘의 코드를 개발자가 직접 작성할 줄 알아야 할까?
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/commit/211713d0ee58181999b7f01db19ad37ff722e09e)
 
+## 2024-05-23
+- **Verified**: YES
+- **Notes**: ChatGPT, Copliot 등의 인공지능이 나타난 이후.. 코딩테스트, 알고리즘의 코드를 개발자가 직접 작성할 줄 알아야 할까?
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/commit/e2f843acdb3caf0118839ceaebebe02e59f6eb25)
+
 
 # Loss verification when failure
 
