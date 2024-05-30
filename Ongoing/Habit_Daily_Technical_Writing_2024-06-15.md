@@ -24,6 +24,11 @@
 - **Notes**: ChatGPT, Copliot 등의 인공지능이 나타난 이후.. 코딩테스트, 알고리즘의 코드를 개발자가 직접 작성할 줄 알아야 할까?
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/commit/e2f843acdb3caf0118839ceaebebe02e59f6eb25)
 
+## 2024-05-24
+- **Verified**: YES
+- **Notes**: OOP SOLID 원칙 소개
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/OOP_SOLID_principles.md)
+
 
 # Loss verification when failure
 
