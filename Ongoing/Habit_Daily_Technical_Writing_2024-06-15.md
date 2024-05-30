@@ -37,7 +37,12 @@
 ## 2024-05-26
 - **Verified**: YES
 - **Notes**: Template programming(TP)과 Template Metaprogramming(TMP)의 차이점
-- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/difference_between_TP_and_TMP.md)
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/differences_between_TP_and_TMP.md)
+
+## 2024-05-27
+- **Verified**: YES
+- **Notes**: 다형성의 관점에서 OOP와 TMP의 차이점
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/differences_between_OOP_and_TMP_in_terms_of_polymorphism.md)
 
 
 # Loss verification when failure
