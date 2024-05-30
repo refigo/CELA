@@ -29,6 +29,11 @@
 - **Notes**: OOP SOLID 원칙 소개
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/OOP_SOLID_principles.md)
 
+## 2024-05-25
+- **Verified**: YES
+- **Notes**: 포인터 변수와 배열 변수의 차이점 설명
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/TWV/differences_between_pointer_and_array_variables.md)
+
 
 # Loss verification when failure
 
