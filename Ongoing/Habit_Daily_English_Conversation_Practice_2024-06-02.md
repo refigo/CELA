@@ -99,5 +99,11 @@
 - **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/05/ECV/202405311518-ECV.md)
 
 
+## 2024-06-01
+- **Verified**: YES
+- **Notes**: Input: A day in my life (Lex Fridman) - Deep Work Session 1 | Output: QnA
+- **Proof URL**: [Link](https://github.com/refigo/progress-verification/blob/main/2024/06/ECV/202406011303-ECV.md)
+
+
 # Loss verification when failure
 
